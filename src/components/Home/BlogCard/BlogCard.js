@@ -9,7 +9,7 @@ const BlogCard = ({blogs}) => {
       <Card.Body>
         <Card.Title>{title}</Card.Title>
         <Card.Text>{description}</Card.Text>
-        <a href={link} target="_blank" rel="noreferrer"><button className="button-style">Full Blog</button></a>
+        <a href={link} target="_blank" rel="noreferrer"><button className="button-style">Read more</button></a>
       </Card.Body>
     </Card>
   );
