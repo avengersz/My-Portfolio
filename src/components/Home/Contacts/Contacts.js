@@ -12,7 +12,7 @@ const Contacts = () => {
         </div>
         <div className="col-md-6 form-container animate__animated animate__bounce">
           <form
-            action="https://formsubmit.co/dev.enamul.hossain25@gmail.com"
+           action="https://formsubmit.co/enamul.hossain25@gmail.com"
             method="POST"
           >
             <input
@@ -52,3 +52,4 @@ const Contacts = () => {
 };
 
 export default Contacts;
+
