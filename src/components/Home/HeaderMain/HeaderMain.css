@@ -1,0 +1,28 @@
+.title {
+  font-size:6rem;
+}
+
+.header-container{
+  height: 950px;
+}
+
+.header-content{
+  text-align: left;
+  z-index: 10;
+}
+
+
+
+
+@media (max-width: 576px) {
+  .title {
+    margin-top: 20px;
+    font-size: 64px;
+  }
+  .header-image {
+    display: none;
+  }
+  .header-container{
+    height: 450px;
+  }
+}

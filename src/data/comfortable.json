@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "imgURL": "https://i.ibb.co/b6PL7v4/js-dd493364.png",
+    "caption":"JavaSript"
+  },{
+    "id": 2,
+    "imgURL": "https://i.ibb.co/h896mtN/styled-components.png",
+    "caption":"Styled Component"
+  },{
+    "id": 3,
+    "imgURL": "https://i.ibb.co/48NwFGB/sass-6d76b44e.png",
+    "caption":"SASS"
+  }
+]

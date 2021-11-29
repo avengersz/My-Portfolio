@@ -1,0 +1,12 @@
+
+.nav-link-style {
+  font-family: 'Nunito', sans-serif;
+  font-weight: 600;
+}
+
+@media (max-width: 576px) {
+  .nav-bg {
+    background-color: rgba(243, 239, 239, 0.9);
+    border-radius:10px;
+  }
+}

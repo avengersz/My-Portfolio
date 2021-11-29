@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "imgURL": "https://i.ibb.co/jwpvgDh/vs-code-54c2de39.png",
+    "caption":"Visual Studio Code"
+  },{
+    "id": 2,
+    "imgURL": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+    "caption":"Github"
+  },{
+    "id": 3,
+    "imgURL": "https://i.ibb.co/L1zgwVk/cdt-136d030e.png",
+    "caption":"Chrome Dev Tool"
+  },{
+    "id": 4,
+    "imgURL": "https://i.ibb.co/dPBDvLh/firebase-a4156cb6.png",
+    "caption":"Firebase"
+  },{
+    "id": 5,
+    "imgURL": "https://i.ibb.co/rcRSnwH/netlify-603ef81c.png",
+    "caption":"Netlify"
+  },{
+    "id": 6,
+    "imgURL": "https://i.ibb.co/KygKbrS/download-1.png",
+    "caption":"Heroku"
+  },{
+    "id": 7,
+    "imgURL": "https://i.ibb.co/NyZ6Q9S/npm-bf117b29.png",
+    "caption":"npm"
+  }
+]

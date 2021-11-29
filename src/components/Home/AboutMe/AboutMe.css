@@ -1,0 +1,24 @@
+.wave {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.wave svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 82px;
+}
+
+.wave .shape-fill {
+  fill: white;
+}
+
+.aboutme {
+  position: relative;
+  background: linear-gradient(126deg, rgba(249,108,177,1) 0%, rgba(245,96,137,1) 50%, rgba(239,112,68,1) 100%);
+}

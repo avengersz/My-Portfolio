@@ -1,0 +1,36 @@
+[{
+  "id": 1,
+  "title": "Arch Creek Animal Clinic",
+  "title2": "website for pet hospital",
+  "projectDetails1": "Arch Creek Animal Clinic is a fully responsive website for pet hospital",
+  "projectDetails2": "",
+  "projectLiveSite": "https://arch-creek-animal-clinic.web.app/",
+  "projectCode": "https://github.com/avengersz/Arch-Creek_Animal-Clinic",
+  "screenshot1": "",
+  "screenshot2": "",
+  "screenshot3": ""
+}, {
+  "id": 2,
+  "title": "Happy Mart",
+  "title2": "Grocery Store Website",
+  "projectDetails1": "Happy Mart is a responsive Grocery Store Website.",
+  "projectDetails2": "A user can buy a product from the Happy Mart homepage. When the user clicks the buy now button, the user will be redirected to the login page. After successfully logged in by google sign-in or another method, the user can check out the product. Users can also check the user’s orders on the Order page.",
+  "projectDetails3": "An admin can add products in the add product section of the admin page, which will be shown on the Home page instantly.",
+  "projectLiveSite": "",
+  "projectCode": "",
+  "screenshot1": "",
+  "screenshot2": "",
+  "screenshot3": ""
+}, {
+  "id": 3,
+  "title": "Ride Guru",
+  "title2": "Ridesharing WebApp",
+  "projectDetails1": "Ride Guru is a Ridesharing Web App.",
+  "projectDetails2": "Clients can book a ride and select their destination after login in using the google authentication system implemented using firebase.",
+  "projectDetails3": "Users can see the ride details on the user dashboard with a map.",
+  "projectLiveSite": "",
+  "projectCode": "",
+  "screenshot1": "",
+  "screenshot2": "",
+  "screenshot3": ""
+}]

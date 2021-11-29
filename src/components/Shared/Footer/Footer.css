@@ -1,0 +1,10 @@
+.footer-copyright{
+  height: 50px;
+  background-color: black;
+}
+
+ @media (max-width: 576px) {
+  .footer-copyright{
+    font-size: 11px;
+  }
+}
