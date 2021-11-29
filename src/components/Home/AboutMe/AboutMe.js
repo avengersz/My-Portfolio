@@ -11,9 +11,11 @@ const AboutMe = () => {
 
         <div className="p-5 col-md-6 col-sm-12">
           <img src={aboutMeIMG} alt="" className='border rounded img-fluid' />
+          
         </div>
-
-        <div className="p-5 text-left col-md-6 col-sm-12">
+        
+        <div className="p-2 text-left col-md-6 col-sm-12">
+        <h1>About Me</h1>
           <h3>SM ENAMUL HOSSAIN APAN</h3>
           <p style={{ fontWeight: '600' }}>Junior Web Developer</p>
           <hr />
