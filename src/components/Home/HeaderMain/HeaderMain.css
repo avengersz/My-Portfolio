@@ -10,7 +10,24 @@
   text-align: left;
   z-index: 10;
 }
-
+.download_btn {
+  outline: none;
+  padding: 8px 20px;
+  background: #081158;
+  border: 2px solid #081158;
+  color: #fbb244;
+  border-radius: 30px;
+  font-size: 16px;
+  cursor: pointer;
+  display: block;
+  font-weight: 500;
+}
+.download_btn:hover {
+  color: #000;
+  background-color: rgba(219, 215, 215, 0.2);
+  border: 2px solid rgba(219, 215, 215, 0.2);
+  transition: all 0.3s;
+}
 
 
 
