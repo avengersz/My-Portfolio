@@ -2,13 +2,14 @@ import React from 'react';
 import { Nav, Navbar } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 import './NavigationMenu.css'
-import logo from "../../../images/logo.png";
+//  import logo from "../../../images/logo.png";
+// <img src={logo} alt="" className="nav-logo" />
 
 const NavigationMenu = () => {
 
   return (
     <Navbar collapseOnSelect expand="md" variant="light" fixed='top' className="container pt-3 justify-content-between nav-bg">
-      <Navbar.Brand as={Link} to="/home"><img src={logo} alt="" className="nav-logo" /></Navbar.Brand>
+      <Navbar.Brand as={Link} to="/home"></Navbar.Brand>
       <Navbar.Toggle aria-controls="responsive-navbar-nav" />
       <Navbar.Collapse id="responsive-navbar-nav">
         <Nav className="ml-auto nav-bg">

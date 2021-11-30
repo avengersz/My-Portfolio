@@ -1,6 +1,20 @@
-
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.nav {
+  margin-left: -40px;
+  position: fixed;
+  z-index: 2;
+}
+img ~ img  {
+  position: fixed;
+  right: 10px;
+  top:8px;
+}
 .nav-link-style {
-  font-family: 'Nunito', sans-serif;
+  font-family: 'poppins', sans-serif;
   font-weight: 600;
 }
 

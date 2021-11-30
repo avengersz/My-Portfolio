@@ -3,11 +3,7 @@
     "id": 1,
     "imgURL": "https://i.ibb.co/4Nsm0dH/redux-b3b939c6.png",
     "caption":"Redux"
-  },{
-    "id": 2,
-    "imgURL": "https://vitejs.dev/logo.svg",
-    "caption":"Vit"
-  },{
+   },{
     "id": 3,
     "imgURL": "https://i.ibb.co/G2p9DFN/react-20adfb35.png",
     "caption":"React Native"
@@ -17,7 +13,7 @@
     "caption":"Next JS"
   },{
     "id": 5,
-    "imgURL": "https://www.markusantonwolf.com/media/pages/blog/tailwind-css/265298487-1596675041/tailwind-css-logo.svg",
+    "imgURL": "",
     "caption":"Tailwind CSS"
   }
 ]
