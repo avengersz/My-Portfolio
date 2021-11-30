@@ -6,9 +6,9 @@
   "projectDetails2": "Website using react-router for routing, react-bootstrap for styling, and react-slick for carousel.",
   "projectLiveSite": "https://arch-creek-animal-clinic.web.app/",
   "projectCode": "https://github.com/avengersz/Arch-Creek_Animal-Clinic",
-  "screenshot1": "",
-  "screenshot2": "",
-  "screenshot3": ""
+  "screenshot1": "https://i.postimg.cc/bvXbN2sg/Screenshot-2021-11-29-210815.png",
+  "screenshot2": "https://i.postimg.cc/RZJKBTVq/Screenshot-2021-11-30-115024.png",
+  "screenshot3": "https://i.postimg.cc/SNscZhB6/Screenshot-2021-11-30-115039.png"
 }, {
   "id": 2,
   "title": "Nexus Travels",
@@ -18,9 +18,9 @@
   "projectDetails3": "An admin can add tours in the add product section of the admin page, which will be shown on the Home page instantly.",
   "projectLiveSite": "https://supreme-service-dbe20.web.app/",
   "projectCode": "https://github.com/avengersz/Nexus-Travels-Client--Side",
-  "screenshot1": "",
-  "screenshot2": "",
-  "screenshot3": ""
+  "screenshot1": "https://i.postimg.cc/QxZNMTT0/Screenshot-2021-11-30-115601.png",
+  "screenshot2": "https://i.postimg.cc/NFmg4gW6/Screenshot-2021-11-30-115616.png",
+  "screenshot3": "https://i.postimg.cc/XvYYb6CW/Screenshot-2021-11-30-115632.png"
 }, {
   "id": 3,
   "title": "Bike Junctions",
@@ -30,7 +30,7 @@
   "projectDetails3": "Users can see the bike details on the user dashboard with a map.",
   "projectLiveSite": "https://final-project-f7cd5.web.app/",
   "projectCode": "https://github.com/avengersz/Bike-Junction-ClientSide",
-  "screenshot1": "",
-  "screenshot2": "",
-  "screenshot3": ""
+  "screenshot1": "https://i.postimg.cc/SR6Xg05M/Screenshot-2021-11-30-115912.png",
+  "screenshot2": "https://i.postimg.cc/vTFg78Py/Screenshot-2021-11-30-115933.png",
+  "screenshot3": "https://i.postimg.cc/ydS3S3yn/Screenshot-2021-11-30-115947.png"
 }]
